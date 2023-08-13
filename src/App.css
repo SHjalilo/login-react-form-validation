@@ -5,3 +5,19 @@ span {
 .invalid{
   border: 1px solid red;
 }
+
+.errNumber{
+  font-size: 150px;
+  color: whitesmoke;
+}
+
+.errText{
+  font-size: 26px;
+  color: whitesmoke;
+}
+
+.btn_bh{
+  color: whitesmoke;
+  border: 1px solid whitesmoke;
+  font-size: 20px;
+}
